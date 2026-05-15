@@ -1,24 +1,17 @@
 # Configure main menu and social menu
-#[[main]]
-#identifier = "home"
-#name = "Home"
-#url = "/"
-#[main.params]
-#icon = "home"
-#newtab = true
+
+[[social]]
+    identifier = "youtube"
+    name       = "YouTube"
+    url        = "https://www.youtube.com/playlist?list=PLvY0gBv2JjRpbwOCO0ZjREWof57ilIFNn"
+
+    [social.params]
+        icon = "brand-youtube"
 
 [[social]]
     identifier = "github"
     name       = "GitHub"
-    url        = "https://github.com/CaiJimmy/hugo-theme-stack"
+    url        = "https://github.com/cloudycounty"
 
     [social.params]
         icon = "brand-github"
-
-[[social]]
-    identifier = "twitter"
-    name       = "Twitter"
-    url        = "https://twitter.com"
-
-    [social.params]
-        icon = "brand-twitter"
