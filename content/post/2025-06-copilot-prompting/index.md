@@ -3,6 +3,7 @@ title: "Copilot Prompting"
 description: "June 2025 — a hands-on training session on getting better results from Copilot through stronger prompting."
 slug: "2025-06-copilot-prompting"
 date: 2025-06-19T12:00:00-05:00
+image: https://img.youtube.com/vi/jGoTsu8caf8/hqdefault.jpg
 categories:
     - Copilot
 tags:

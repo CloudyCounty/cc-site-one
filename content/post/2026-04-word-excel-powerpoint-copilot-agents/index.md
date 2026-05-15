@@ -3,6 +3,7 @@ title: "Word, Excel, & PowerPoint Copilot Agents"
 description: "April 2026 — Teams security updates, Copilot licensing changes, and a deep dive into the new Word, Excel, and PowerPoint agents."
 slug: "2026-04-word-excel-powerpoint-copilot-agents"
 date: 2026-04-16T12:00:00-05:00
+image: https://img.youtube.com/vi/Ou36ikEf2_0/hqdefault.jpg
 categories:
     - Copilot
     - Teams

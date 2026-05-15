@@ -3,6 +3,7 @@ title: "Viva Tools"
 description: "September 2025 — a tour of the Viva suite: Reflect, Insights, and Copilot Academy."
 slug: "2025-09-viva-tools"
 date: 2025-09-18T12:00:00-05:00
+image: https://img.youtube.com/vi/iCSER1M1pgY/hqdefault.jpg
 categories:
     - Viva
     - Copilot

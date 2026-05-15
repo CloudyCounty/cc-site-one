@@ -3,6 +3,7 @@ title: "Information Collection: Forms, Lists, & Libraries"
 description: "February 2026 — choosing the right tool for collecting information across Microsoft 365."
 slug: "2026-02-information-collection"
 date: 2026-02-19T12:00:00-05:00
+image: https://img.youtube.com/vi/c9lR9lejD6U/hqdefault.jpg
 categories:
     - Forms & Lists
     - SharePoint

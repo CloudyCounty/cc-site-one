@@ -3,6 +3,7 @@ title: "Teams and Copilot Updates"
 description: "August 2025 — Excel function updates, SharePoint Dashboards, and GPT-4o image creation in Copilot."
 slug: "2025-08-teams-and-copilot-updates"
 date: 2025-08-21T12:00:00-05:00
+image: https://img.youtube.com/vi/cLb3uYOXmvI/hqdefault.jpg
 categories:
     - Teams
     - Copilot

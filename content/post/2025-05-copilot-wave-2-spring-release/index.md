@@ -3,6 +3,7 @@ title: "Copilot Wave 2 Spring Release"
 description: "May 2025 — Researcher and Analyst reasoning agents, plus Teams Premium and accessibility updates."
 slug: "2025-05-copilot-wave-2-spring-release"
 date: 2025-05-15T12:00:00-05:00
+image: https://img.youtube.com/vi/nVVKZ6vXXj8/hqdefault.jpg
 categories:
     - Copilot
     - Teams

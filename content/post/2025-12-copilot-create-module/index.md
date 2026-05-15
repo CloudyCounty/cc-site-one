@@ -3,6 +3,7 @@ title: "Microsoft Copilot Create Module"
 description: "December 2025 — a deep dive into the Copilot Create module for generating images, documents, and short videos."
 slug: "2025-12-copilot-create-module"
 date: 2025-12-18T12:00:00-05:00
+image: https://img.youtube.com/vi/ni0AJdYSGck/hqdefault.jpg
 categories:
     - Copilot
 tags:

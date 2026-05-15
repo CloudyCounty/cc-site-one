@@ -3,6 +3,7 @@ title: "Newsletters in Outlook"
 description: "November 2025 — designing branded internal newsletters with Outlook, plus What's New across the M365 apps."
 slug: "2025-11-newsletters-in-outlook"
 date: 2025-11-20T12:00:00-05:00
+image: https://img.youtube.com/vi/pGwPTwCF-to/hqdefault.jpg
 categories:
     - Outlook
     - M365 Updates

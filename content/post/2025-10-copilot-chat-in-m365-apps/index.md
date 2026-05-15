@@ -3,6 +3,7 @@ title: "Copilot Chat in M365 Apps"
 description: "October 2025 — end-of-support reminders, Excel turns 40, and the broad rollout of free Copilot Chat across the M365 apps."
 slug: "2025-10-copilot-chat-in-m365-apps"
 date: 2025-10-16T12:00:00-05:00
+image: https://img.youtube.com/vi/si5Tx1VPOWY/hqdefault.jpg
 categories:
     - Copilot
     - M365 Updates

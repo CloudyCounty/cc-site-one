@@ -3,6 +3,7 @@ title: "M365 What's New and Near"
 description: "January 2026 — kicking off the year with a tour of what's new and what's next across Microsoft 365."
 slug: "2026-01-m365-whats-new-and-near"
 date: 2026-01-22T12:00:00-05:00
+image: https://img.youtube.com/vi/4GMte1gKr8c/hqdefault.jpg
 categories:
     - M365 Updates
     - Copilot
